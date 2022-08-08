@@ -1,4 +1,4 @@
-Recommended to use Big Sur (Any version)
+(Recommended to use Big Sur)
 My Hackintosh Build parts I use
 
 | Type                 | Name                              |
