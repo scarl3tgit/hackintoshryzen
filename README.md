@@ -1,8 +1,4 @@
-
-(https://img.shields.io/badge/OpenCore-0.7.2-informational.svg)](https://github.com/acidanthera/OpenCorePkg) 
-
-<img src="pic/big-sur.png" width="150"/>\
-
+Recommended to use Big Sur (Any version)
 My Hackintosh Build parts I use
 
 | Type                 | Name                              |
