@@ -1,5 +1,5 @@
 
-[![macOS version](https://img.shields.io/static/v1?label=MacOS-BigSur&message=11.5.1&color=success)](https://www.apple.com/id/macos/big-sur/) [![macOS version](https://img.shields.io/static/v1?label=MacOS-Monterey&message=12.0&color=blueviolet)](https://www.apple.com/id/macos/monterey-preview/) [![OpenCore version](https://img.shields.io/badge/OpenCore-0.7.2-informational.svg)](https://github.com/acidanthera/OpenCorePkg) 
+(https://img.shields.io/badge/OpenCore-0.7.2-informational.svg)](https://github.com/acidanthera/OpenCorePkg) 
 
 <img src="pic/big-sur.png" width="150"/>\
 
