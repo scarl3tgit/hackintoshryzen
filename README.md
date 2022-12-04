@@ -1,5 +1,5 @@
 (Recommended to use Big Sur)
-My Hackintosh Build parts I use
+My Hackintosh
 
 | Type                 | Name                              |
 |----------------------|-----------------------------------|
@@ -9,4 +9,4 @@ My Hackintosh Build parts I use
 | GPU                  | ASRocks Radeon RX580 8GB          |
 | RAM                  | 8G DIMM DDR4 (16G * 2) 32GB       |
 | Ethernet             | RealtekRTL8111                    |
-| Storage              | 1TB SSD (Not a M.2) (SATA)        |
+| Storage              | 1TB SSD                           |
